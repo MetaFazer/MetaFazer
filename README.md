@@ -5,12 +5,10 @@
 
 - 🌱 I’m currently learning **Advanced DSA (Striver A2Z in C++)**
 
-- 👯 I’m looking to collaborate on **AI projects that solve real-world pr
-- oblems**
+- 👯 I’m looking to collaborate on **AI projects that solve real-world problems**
 
 - 💬 Ask me about **How to turn quirky ideas into working prototypes 🚀**
 
-- 📫 How to reach me **vaibhavabhishek10@gmail.com**
 
 - ⚡ Fun fact **I vibecode my best projects at 2 AM, usually while roasting Spotify playlists or Netflix choices 😄**
 

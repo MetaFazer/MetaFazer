@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm MetaFazer</h1>
 <h3 align="center">CS Undergrad | AI Enthusiast | Building cool things with code</h3>
 
-- 🔭 I’m currently working on **Second Brain**
+- 🔭 I’m currently working on **Second Brain (glorified to-do app)**
 
 - 🌱 I’m currently learning **Advanced DSA (Striver A2Z in C++)**
 
-- 👯 I’m looking to collaborate on **AI projects that solve real-world problems**
+- 👯 I’m looking to collaborate on **AI projects that solve real-world pr
+- oblems**
 
 - 💬 Ask me about **How to turn quirky ideas into working prototypes 🚀**
 

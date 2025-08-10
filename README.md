@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MetaFazer</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">CS Undergrad | AI Enthusiast | Building cool things with code</h3>
 
 - 🔭 I’m currently working on **Second Brain (glorified to-do app)**

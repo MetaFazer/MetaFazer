@@ -102,7 +102,6 @@ struct Abhishek {
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MetaFazer\&show_icons=true\&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=MetaFazer\&theme=tokyonight)
 

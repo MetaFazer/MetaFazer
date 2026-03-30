@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Abhishek Kumar Singh
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%7C+AI+%2B+Fintech+Systems;Fraud+Detection+%7C+Graph+Neural+Networks;Building+Production-Grade+AI+Systems" alt="Typing SVG" /></a>
+🚀 **💻 Software Engineer | ML Systems & Scalable Architecture**
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 

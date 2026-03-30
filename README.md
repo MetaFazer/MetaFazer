@@ -102,27 +102,27 @@ struct Abhishek {
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MetaFazer\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=MetaFazer\&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MetaFazer/MetaFazer/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📈 Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MetaFazer\&theme=tokyo-night)
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MetaFazer\&theme=onedark)
 
 ---
 

@@ -45,7 +45,6 @@ struct Abhishek {
 ### 🧩 ChainVigil — Cross-Channel Mule Detection System
 > Python, Neo4j, PyTorch Geometric, n8n
 
-> Graph-based fraud detection system across banking channels
 
 * 🔗 Unified 500+ accounts & 2,500+ transactions into **entity graph**
 * 🤖 Hybrid **GraphSAGE + GAT model** for mule detection

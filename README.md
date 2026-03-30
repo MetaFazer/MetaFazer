@@ -43,6 +43,7 @@ struct Abhishek {
 ## 🚀 Featured Projects
 
 ### 🧩 ChainVigil — Cross-Channel Mule Detection System
+> Python, Neo4j, PyTorch Geometric, n8n
 
 > Graph-based fraud detection system across banking channels
 
@@ -55,6 +56,7 @@ struct Abhishek {
 ---
 
 ### 💳 GhostPay — Payment Gateway & Ledger Auditor
+> Node.js, PostgreSQL, Redis, Python
 
 * 💸 Simulated **UPI, card, wallet flows**
 * 🧠 Built **ghost transaction detector**
@@ -63,6 +65,7 @@ struct Abhishek {
 ---
 
 ### 📈 Finvest — Investment Platform Simulator
+> Next.js, Node.js, TypeScript, MySQL, Prisma, Docker
 
 * 🐳 Fully containerized with **Docker Compose**
 * 🔐 JWT auth + role-based system
@@ -71,6 +74,7 @@ struct Abhishek {
 ---
 
 ### 🌐 Vaultrix — Developer Portfolio Generator
+> Next.js, React, TypeScript, Tailwind CSS
 
 * ⚡ Build portfolios in **under 2 minutes**
 * 🔗 GitHub auto-sync (90% manual effort reduced)

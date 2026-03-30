@@ -121,11 +121,7 @@ struct Abhishek {
 
 ---
 
-## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MetaFazer\&theme=onedark)
-
----
 
 ## 🎓 Education
 
@@ -137,8 +133,8 @@ struct Abhishek {
 ## 📬 Connect With Me
 
 * 📧 [vaibhavabhishek10@gmail.com](mailto:vaibhavabhishek10@gmail.com)
-* 💼 LinkedIn
-* 🌐 Portfolio
+* 💼 LinkedIn - https://www.linkedin.com/in/abhishekksingh10/
+* 🌐 Portfolio - https://abhishekkumarsingh.vercel.app/
 
 ---
 

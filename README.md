@@ -16,8 +16,8 @@
 
 ### ⚡ About Me
 
-* 🎯 Building **scalable backend systems** for fintech & fraud detection
-* 🧠 Strong focus on **Graph ML, real-time pipelines, and explainable AI**
+* 🎯 Building **RAG systems, LLM evaluation tooling, and fraud detection pipelines**
+* 🧠 Focus on **Graph ML, retrieval quality, and explainable AI**
 * ⚙️ Love designing **end-to-end architectures (API → DB → ML → UI)**
 * 📍 India
 
@@ -29,10 +29,10 @@
 struct Abhishek {
     string focus = "Backend + AI Systems";
     vector<string> domains = {
+        "RAG & LLM Evaluation",
         "Fraud Detection",
-        "Fintech Infrastructure",
         "Graph Neural Networks",
-        "Distributed Systems"
+        "Backend Engineering"
     };
     string current_mission = "Building production-grade AI systems";
 };
@@ -40,44 +40,46 @@ struct Abhishek {
 
 ---
 
+## 💼 Experience
+
+### 🏛️ MeitY — Data Analytics Intern `Jun 2026 – Jul 2026`
+
+* 🌐 Built **inspect-india-evals**, a multilingual LLM evaluation framework for **16 Indian languages**, extending UK AISI's Inspect AI
+* 📦 Published it as a **PyPI package** and submitted it to the official Inspect Evals registry
+* ⚖️ Implemented **Bias Score** and **Stereotypical Bias Score** on BharatBBQ across **13 demographic axes**
+* 📊 Benchmarked **5 open-weight LLMs (8B–32B)** and proposed an **India Fairness Index** (Gemma 2 27B ranked highest at 83.1%)
+* 📄 Published on arXiv: **[2607.25375](https://arxiv.org/abs/2607.25375)**
+
+---
+
 ## 🚀 Featured Projects
 
+### 📚 FinRAG — Citation-Enforced Financial Research Assistant
+> LangGraph, FastAPI, ChromaDB, Redis, PostgreSQL, Next.js
+
+* 🔎 Production RAG pipeline with **BM25 + dense retrieval** and **Reciprocal Rank Fusion**, serving **200+ active users**
+* 🎯 Cross-encoder reranking (25 → top 5) with **confidence-validated citation enforcement**
+* 📏 **0.73 RAGAS faithfulness** on a 50+ Q&A golden dataset
+* ⚡ Latency cut from **4s → 200ms** using Redis caching and Docker across 4 services
+
+---
+
 ### 🧩 ChainVigil — Cross-Channel Mule Detection System
-> Python, Neo4j, PyTorch Geometric, n8n
+> Python, Neo4j, PyTorch Geometric, React
 
-
-* 🔗 Unified 500+ accounts & 2,500+ transactions into **entity graph**
-* 🤖 Hybrid **GraphSAGE + GAT model** for mule detection
-* ⚡ **Sub-second fraud alerts** using automated pipelines
-* 🔍 Explainability via **SHAP + gradient XAI**
-* 🔐 Privacy layer using **SHA-256 anonymization**
+* 🔗 **Unified Entity Graph** over 900 accounts and 4,500+ transactions in Neo4j
+* 🤖 Hybrid **GraphSAGE + GAT** on 20 graph features — **0.87 AUC-ROC**
+* 🔐 Privacy-preserving inter-bank sharing via **SHA-256 anonymization** with 4-tier risk scoring
+* 🔍 6-tab React dashboard with **XAI, LLM-generated SAR summaries**, and live graph visualization
 
 ---
 
-### 💳 GhostPay — Payment Gateway & Ledger Auditor
-> Node.js, PostgreSQL, Redis, Python
+### 📊 Transaction Fraud Anomaly Dashboard
+> Python, scikit-learn, XGBoost, Streamlit, Plotly
 
-* 💸 Simulated **UPI, card, wallet flows**
-* 🧠 Built **ghost transaction detector**
-* 📊 AI-powered **ledger reconciliation system**
-
----
-
-### 📈 Finvest — Investment Platform Simulator
-> Next.js, Node.js, TypeScript, MySQL, Prisma, Docker
-
-* 🐳 Fully containerized with **Docker Compose**
-* 🔐 JWT auth + role-based system
-* 🤖 Integrated **AI recommendations + chatbot**
-
----
-
-### 🌐 Vaultrix — Developer Portfolio Generator
-> Next.js, React, TypeScript, Tailwind CSS
-
-* ⚡ Build portfolios in **under 2 minutes**
-* 🔗 GitHub auto-sync (90% manual effort reduced)
-* 🧠 Dynamic dashboard + customization engine
+* 💳 Anomaly detection pipeline over **284K+ transactions** with a severe **0.17% fraud rate**
+* ⚔️ Benchmarked **Isolation Forest, LOF, and XGBoost** — 0.9527 and 0.9684 ROC-AUC (IF / XGB)
+* 🖥️ Streamlit dashboard with threshold tuning, ROC comparison, confusion matrix, and fraud analytics
 
 ---
 
@@ -89,6 +91,7 @@ struct Abhishek {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 Frameworks
 
@@ -96,6 +99,7 @@ struct Abhishek {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -108,14 +112,14 @@ struct Abhishek {
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge&logo=pyg&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![XAI](https://img.shields.io/badge/Explainable_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Evaluation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![GNN](https://img.shields.io/badge/Graph_Neural_Networks-00B4D8?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
 
 ![Streak](https://streak-stats.demolab.com?user=MetaFazer\&theme=tokyonight)
 
@@ -134,12 +138,10 @@ struct Abhishek {
 
 ---
 
-
-
 ## 🎓 Education
 
-🎓 B.Tech Computer Science — GGSIPU
-📊 CGPA: 8.04/10
+🎓 B.Tech Computer Science — GGSIPU (Expected 2027)
+📊 CGPA: 8.18/10
 
 ---
 
